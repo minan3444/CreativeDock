@@ -1,0 +1,7 @@
+node_modules
+*.log
+allure-results
+junit-results
+allure-report
+.tsbuild
+target
